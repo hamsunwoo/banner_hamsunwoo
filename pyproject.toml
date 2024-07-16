@@ -18,3 +18,7 @@ show-banner = 'banner_hamsunwoo.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Repository = "https://github.com/hamsunwoo/banner_hamsunwoo"
+Issues = "https://github.com/hamsunwoo/banner_hamsunwoo/issues"
