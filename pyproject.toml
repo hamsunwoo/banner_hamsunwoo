@@ -15,6 +15,7 @@ license = {text = "MIT"}
 [project.scripts]
 hamsunwoo-banner = 'banner_hamsunwoo.banner:show'
 hamsunwoo-pic = 'banner_hamsunwoo.banner:pic'
+hamsunwoo-lotto = 'banner_hamsunwoo.banner:lotto'
 
 
 [tool.pdm]
